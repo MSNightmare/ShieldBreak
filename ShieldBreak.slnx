@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ShieldBreak.vcxproj" Id="48daaecb-f9bc-4767-bf6b-a532a82d9232" />
+</Solution>
